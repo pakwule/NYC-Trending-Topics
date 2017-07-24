@@ -30,7 +30,7 @@ def gettrends(woeid):
         except:
             continue
     return trend_dict
-#2514815, 2459115
+
 nyctrends = gettrends(2459115)
 #Next... write trends to CSV file and visualize
 #make each trend and volume a separate list that can be put into a CSV
