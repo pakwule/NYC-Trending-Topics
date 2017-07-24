@@ -1,5 +1,5 @@
 # NYC-Trending-Topics 
-Python program that uses "Tweepy" module, "Plotly" module to collect trending topics at anytime in New York City and put those topics in a CSV file. Data is then visualized with bar graph.
+Python program that uses Twitter API requests to collect trending topics at anytime in New York City and put those topics in a CSV file. Data is then visualized with bar graph.
 # Installation
 Program uses "Tweepy" module, "Plotly" module. Installation instructions can be found via the following links 
 Tweepy: https://github.com/tweepy/tweepy
